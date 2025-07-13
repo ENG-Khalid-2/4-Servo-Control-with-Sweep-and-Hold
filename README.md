@@ -22,6 +22,9 @@ This project demonstrates how to control **4 servo motors** using an Arduino Uno
 | Jumper Wires          | 14       | Connect servos to Arduino               |
 | External Power (optional) | 1    | Power servos more reliably if needed    |
 
+External power is important in real life because the Arduino alone is not enough.
+
+
 ---
 
 ### 🔌 Arduino Pin Connections
