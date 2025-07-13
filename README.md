@@ -1,7 +1,7 @@
 # 🤖 4-Servo-Control & Walking Algorithm
 
 ## 🧠 Track Info
-
+![diagram to show the project](RESULT.png)
 > This is the **second task** in the **electronics Track**.
 
 ---
